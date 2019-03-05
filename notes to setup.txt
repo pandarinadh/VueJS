@@ -1,0 +1,23 @@
+ open vscode terminal
+ first 
+ npm init  -- to initialize the project
+ 
+ npm install vue --save
+
+ npm install express --save
+ 
+ to start the project 
+ node server
+
+ #after you setup the start in package.json then 
+
+ npm run start
+
+npm install webpack --save
+
+ node ./node_modules/webpack/bin/webpack --config ./build/webpack.base.config.js
+
+ npm install webpack-dev-middleware webpack-hot-middleware --save-dev
+
+ for eslint to work
+ npm install eslint eslint-loader eslint-plugin-html eslint-config-standard eslint-plugin-promise eslint-plugin-standard eslint-plugin-import eslint-plugin-node --save-dev
