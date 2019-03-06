@@ -1,3 +1,7 @@
+  #after you setup the start in package.json then 
+
+ npm run star
+ 
  open vscode terminal
  first 
  npm init  -- to initialize the project
@@ -21,3 +25,16 @@ npm install webpack --save
 
  for eslint to work
  npm install eslint eslint-loader eslint-plugin-html eslint-config-standard eslint-plugin-promise eslint-plugin-standard eslint-plugin-import eslint-plugin-node --save-dev
+
+TO get the code
+https://gist.github.com/bstavroulakis/dcaf903e3f8d3bf6e6fa202b34c3849a#file-vue-component
+
+https://github.com/bstavroulakis/vue-spa
+
+npm install vue-loader vue-template-compiler --save-dev
+
+npm install babel-core@6.26.0 babel-eslint@7.2.3 babel-loader@7.1.2 babel-preset-es2015@6.24.1 babel-preset-stage-2@6.24.1 --save-dev
+
+npm install bulma@0.5.1 --save
+npm install css-loader@0.28.5 sass-loader@6.0.6 --save-dev
+npm install node-sass@4.5.3 --save-dev
