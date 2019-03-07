@@ -1,3 +1,5 @@
+npm install -g editorconfig
+  
   #after you setup the start in package.json then 
 
  npm run star
@@ -38,3 +40,8 @@ npm install babel-core@6.26.0 babel-eslint@7.2.3 babel-loader@7.1.2 babel-preset
 npm install bulma@0.5.1 --save
 npm install css-loader@0.28.5 sass-loader@6.0.6 --save-dev
 npm install node-sass@4.5.3 --save-dev
+
+http://bit.ly/vue-spa-posts
+http://bit.ly/vue-spa-posts-tmpl
+
+npm install extract-text-webpack-plugin@3.0.0 --save-dev
