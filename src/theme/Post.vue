@@ -6,6 +6,7 @@
       </div>
       <footer class="card-footer">
           <a class="card-footer-item" :href="link" target="_blank">Read More</a>
+         
       </footer>
   </div>
 </template>

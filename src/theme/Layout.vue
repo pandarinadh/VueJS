@@ -4,7 +4,9 @@
     <section class="main-section section">
         <div class="container content">
             <category></category>
+            <inputsvue></inputsvue>
         </div>
+        
     </section>
     <app-footer></app-footer>
 </div>
@@ -13,11 +15,13 @@
   import AppHeader from './AppHeader.vue'
   import AppFooter from './AppFooter.vue'
   import Category from './Category.vue'
+  import InputsVue from './Inputs.vue'
   export default {
     components: {
       'app-header': AppHeader,
       'app-footer': AppFooter,
-      'category': Category
+      'category': Category,
+      'inputsvue': InputsVue
     }
 }
 </script>
