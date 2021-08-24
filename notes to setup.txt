@@ -49,3 +49,5 @@ npm install extract-text-webpack-plugin@3.0.0 --save-dev
 
 8/23/2021 getting error ERROR in Cannot find module 'node-sass'
 npm install --save-dev  --unsafe-perm node-sass
+
+npm install node-fetch

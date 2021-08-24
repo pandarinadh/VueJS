@@ -3,7 +3,7 @@
     <app-header></app-header>
     <section class="main-section section">
         <div class="container content">
-            <category></category>
+            <employees></employees>
             <inputsvue></inputsvue>
         </div>
         
@@ -14,13 +14,13 @@
 <script>
   import AppHeader from './AppHeader.vue'
   import AppFooter from './AppFooter.vue'
-  import Category from './Category.vue'
   import InputsVue from './Inputs.vue'
+  import EmployeesVue from './Employees.vue'
   export default {
     components: {
       'app-header': AppHeader,
       'app-footer': AppFooter,
-      'category': Category,
+      'employees': EmployeesVue,
       'inputsvue': InputsVue
     }
 }

@@ -4,6 +4,9 @@ module.exports ={
     parserOptions: {
         sourceTupe: 'module'
     },
+    rules: {
+        "no-unused-vars": "off"
+    },
     extends: 'standard',
 
     plugins: [
